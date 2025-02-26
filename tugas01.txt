@@ -1,0 +1,19 @@
+1. Dokumen root adalah lokasi folder atau direktori di server web di mana semua file 
+situs web disimpan dan diakses oleh pengguna melalui browser  
+2. Tidak harus. Karena meskipun secara bawaan, XAMPP mengonfigurasi Apache untuk 
+menggunakan C: \xampp\htdocs sebagai direktori dokumen root, karema memiliki 
+f
+ leksibelitas untuk mengubahnya. Dalam file ini, saya dapat menentukan dan 
+mengubah diretif DokumenRooot untuk menentukan lokasi dokumen root yang 
+diinginkan. 
+3. - git init : perintah ini digunakan untuk membuat repositori Git baru direktori lokal. - git clone : perintah ini digunakan untuk membuat salinan repositori Git yang sudah 
+ada dari server jarak jauh (remote repository) - git remote : perintah ini digunakan untuk mengelola koneksi ke repositori jarak jauh - git add : perintah ini digunakan untuk menambahkan perubahan file ke staging area - git commit : perintah ini digunakan untuk menyimpan perubahan file secara 
+permanen di reposiyori lokal. - git push : perintah iidigunakan untuk mengirim perubahan dari repositori lokal ke 
+repositori jarak jauh. - git checkout : Perintah ini digunakan untuk berpindah antar branch atau 
+mengembalikan fileke versi sebelumny. 
+4. – GitHub lebih fokus pada kolaborasi pengembangan perangkat lunak dan 
+komunikasi pengembang - GitLab lebih fokus pada siklus hidup pengembangan perangkat lunak 
+5. - Variable user hanya berlak untuk akun pengguna tertentu. - Variable system berlaku untuk sekuruh system operasi dan semua pengguna 
+komputer tersebut. 
+6. - Keduanya dapat digunakan untuk menyimpan nilai-nilai konfigursai yang 
+memengaruhi bagaimna suatu sistem atau program beroperasi - keduanya menyimpan informasi yang akan digunakan oleh sistem atau program
